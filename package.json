@@ -11,6 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.4.5",
+    "fakeyou.js": "^1.1.1",
+    "fakeyouapi.js": "^1.1.9",
     "node-telegram-bot-api": "^0.66.0",
     "nodemon": "^3.1.7",
     "openai": "^4.68.0"
