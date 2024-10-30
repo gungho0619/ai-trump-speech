@@ -1,6 +1,6 @@
-# TELE_GPT_BOT
+# AI_TG_TRUMP_SPEECH_BOT
 
-This repository hosts a Telegram ChatGPT bot designed for generating text, images, and audio. Additional functionalities will be introduced in future updates.
+This repository hosts a Telegram ChatGPT bot designed for generating TTS (TextToSpeech) using Donald Trump's voice
 
 ## Environment Variables
 
@@ -16,13 +16,13 @@ OPENAI_API_KEY = "sk-your_open_ai_api_key_for_4.0"
 Clone the project
 
 ```bash
-  git clone https://github.com/gungho0619/telegpt-bot.git
+  git clone https://github.com/gungho0619/tg-ai-trump-speech-bot.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd telegpt-bot
+  cd tg-ai-trump-speech-bot
 ```
 
 Install dependencies
@@ -34,17 +34,13 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run dev
+  npm run menu
+  yarn menu
 ```
 
 ## Tech Stack
 
 Node, OpenAI, Telegram-API
-
-## Features
-
-- 1.
-- 2.
 
 ## Badges
 
