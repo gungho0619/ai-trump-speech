@@ -2,6 +2,8 @@
 
 This repository hosts a Telegram ChatGPT bot designed for generating TTS (TextToSpeech) using Donald Trump's voice
 
+![Trump_Speech_Bot](https://github.com/gungho0619/tg-ai-trump-speech-bot/blob/main/cover.png)
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
